@@ -3,10 +3,21 @@ body {
   background-color: rgb(247, 233, 163);
 }
 
-img {
-  width: 400px;
+.container {
   border-radius: 10px;
-  margin-bottom: 20px;
+  padding: 20px;
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+  background-color: rgb(249, 249, 237);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.croissant-photo {
+  max-width: 90%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
 
 .navigation-links a {
