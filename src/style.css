@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: bisque;
+}
+
+img {
+  width: 400px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.navigation-links a {
+  color: rgb(4, 123, 16);
+  font-weight: bold;
+  margin: 20px;
+}
